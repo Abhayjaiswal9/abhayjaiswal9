@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhayjaiswal959) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayjaiswal00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalabhay338@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-abhayjaiswal959-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abhayjaiswal959/)[![Codeforces](https://img.shields.io/badge/Codeforces-jaiswalabhay338-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaiswalabhay338)[![CodeChef](https://img.shields.io/badge/CodeChef-abhayjaiswal9-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhayjaiswal9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhayjaiswal959) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayjaiswal00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalabhay338@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/u/abhayjaiswal959/)[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/jaiswalabhay338)[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhayjaiswal9)
 
 
 # 💻 Tech Stack:
